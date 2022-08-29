@@ -10,3 +10,18 @@
     width: 20%;
     padding-top: 50px;
 }
+.title{
+    font-size: 28px;
+    margin:0;
+}
+.grey-text{
+    color: grey;
+    font-weight: bold;
+}
+#blue-text{
+    color: #66B2FF;
+}
+.sub{
+    font-weight: 100;
+    font-size: 0.8em;
+}
