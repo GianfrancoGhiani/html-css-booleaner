@@ -1,3 +1,9 @@
+*{
+    margin: 0;
+}
+main, header {
+    padding: 5px;
+}
 .top-bar{
     background-color: #66B2FF;
     background-image: url("../img/pattern.png");
