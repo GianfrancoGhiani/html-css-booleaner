@@ -1,0 +1,12 @@
+.top-bar{
+    /* background-color:blue;
+    background-image: url("../img/pattern.png") cover;
+} */
+    background-color: #66B2FF;
+    background-image: url("../img/pattern.png");
+    background-size: contain;
+}
+.logo{
+    width: 20%;
+    padding-top: 50px;
+}
