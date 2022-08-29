@@ -1,7 +1,7 @@
 *{
     margin: 0;
 }
-main, header {
+main, header, footer {
     padding: 5px;
 }
 .top-bar{
