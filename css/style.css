@@ -11,8 +11,9 @@
     padding-top: 50px;
 }
 .title{
-    font-size: 28px;
+    font-size: 32px;
     margin:0;
+    
 }
 .grey-text{
     color: grey;
@@ -23,5 +24,9 @@
 }
 .sub{
     font-weight: 100;
-    font-size: 0.8em;
+    font-size: 11px;
+    margin:0;
+}
+.text-body {
+    font-size: 15px;
 }
