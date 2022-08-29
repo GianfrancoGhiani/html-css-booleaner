@@ -29,4 +29,31 @@
 }
 .text-body {
     font-size: 15px;
+    text-align: left;
+}
+.backyellow{
+    background-color: yellow;
+}
+.column3 {
+    width: 50%;
+}
+thead{
+    background-color: #66B2FF;
+    color: white;
+}
+.lightblue {
+    background-color: lightblue;
+}
+
+.container{
+    position:relative;
+    width: 80%;
+}
+.over-img{
+    font-weight: bold;
+    font-size: 20px;
+    position: absolute;
+    top:5px;
+    left: 3px;
+    color: white;
 }
